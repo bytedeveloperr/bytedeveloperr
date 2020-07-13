@@ -1,7 +1,7 @@
 ### Hi there, Welcome to my Github Profile 👋
 <p>I am Yusuf Abdulrahman, a JavaScript Developer. I develop web Applications using Node.js</p>
 ### Follow me on social media
-![https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png](https://twitter.com/e_javascript)
+! [https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png](https://twitter.com/e_javascript)
 <!--
 **devYusuf/devYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
