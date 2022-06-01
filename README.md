@@ -1,5 +1,5 @@
-### Hi there, Welcome to my Github Profile 👋
-<p>I am Yusuf Abdulrahman, a JavaScript Developer. I develop web Applications using Node.js</p>
+### Hi I'm Rahman 👋. You're welcome to my Github profile.
+
 <!--
 **devYusuf/devYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
