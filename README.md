@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **JavaScript, Solidity, TypeScript etc**
 
-- ⚡ Fun fact: **Burning Fire**
+- ⚡ Fun fact: **Always Cooking**
 
 
 <h3 align="left">Connect with me:</h3>
