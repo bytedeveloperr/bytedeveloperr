@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytedeveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="bytedeveloperr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytedeveloperr" alt="bytedeveloperr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bytedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/bytedeveloper?logo=twitter&style=for-the-badge" alt="bytedeveloper" /></a> </p>
 
 - 📫 How to reach me **abdulrahmanyusuf125@gmail.com**
