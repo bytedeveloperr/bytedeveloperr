@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/bytedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/bytedeveloper?logo=twitter&style=for-the-badge" alt="bytedeveloper" /></a> </p>
 
 - 📫 How to reach me **abdulrahmanyusuf125@gmail.com**
+- 💬 Ask me about: **JavaScript, Solidity, TypeScript etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
