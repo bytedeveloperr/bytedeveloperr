@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Yusuf</h1>
-<h3 align="center">A software developer</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytedeveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="bytedeveloperr" /> </p>
 
@@ -111,8 +109,9 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytedeveloperr&show_icons=true&locale=en&layout=compact" alt="bytedeveloperr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytedeveloperr&show_icons=true&locale=en&layout=compact" alt="bytedeveloperr" />
 </p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bytedeveloperr&show_icons=true&locale=en" alt="bytedeveloperr" />
