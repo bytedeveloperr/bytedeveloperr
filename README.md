@@ -10,8 +10,6 @@
 
 - 💬 Ask me about: **anything?**
 
-- ⚡ Fun fact: **Always Cooking**
-
 
 <h3 align="left">Connect with me:</h3>
 
